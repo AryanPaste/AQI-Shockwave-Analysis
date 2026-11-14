@@ -162,5 +162,5 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## Author
 
-**[Aryan Paste]**
+**Aryan Paste** ·
 [GitHub](https://github.com/AryanPaste) · [LinkedIn](https://www.linkedin.com/in/aryanpaste/)
