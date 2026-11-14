@@ -19,7 +19,7 @@ A year later, this project revisits it and turns it into an **automated, reprodu
 
 1. **Validates** the original 2025 Excel results programmatically.
 2. **Isolates the event window** (the "shockwave") around Diwali in the historical data.
-3. **Applies the same method to a new, live 2026 event**, fetching fresh data and generating outputs automatically.
+3. **Applies the same method to a new, live 2026 event**, fetching fresh mock data and generating outputs automatically.
 
 | | 2025 Case Study | 2026 Pipeline |
 |---|---|---|
