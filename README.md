@@ -84,7 +84,7 @@ Reads the original Excel dataset and recomputes the descriptive statistics from 
 Takes the path of a selected dataset (here, the 2025 Excel file) and slices it into an **event window from T-10 to T+5**, where **T = the event day (Diwali)**. This isolates the pre-event baseline and the post-event aftermath, so the "shockwave" is easy to see.
 
 ### Stage 3: `live_pipeline.py` (Automate)
-Fetches data from a live source, processes it, and models an **extended T-10 to T+10 window** for the 2026 event. It then exports:
+Utilizes a self-contained **mock data generator** to simulate and cache telemetry (ensuring zero-setup reproducibility without requiring external API keys or accounts), processes it, and models an **extended T-10 to T+10 window** for the 2026 event. It then exports:
 - a **CSV** of the processed window, and
 - a **graph** of the AQI trend,
 
