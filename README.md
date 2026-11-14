@@ -34,7 +34,7 @@ A year later, this project revisits it and turns it into an **automated, reprodu
 
 AQI remained largely in the normal range through October 2025, followed by a **sharp surge during the Diwali period**. The Python pipeline independently reproduced the original Excel statistics (mean, median, mode, SD), confirming the 2025 results were accurate.
 
-![Oct 2025 results preview]([assets/aqi_oct2025_results_preview.png](https://github.com/AryanPaste/AQI-Shockwave-Analysis/blob/main/Assets/Line%20Graph.png))
+![Oct 2025 results preview](https://github.com/AryanPaste/AQI-Shockwave-Analysis/blob/main/Assets/Line%20Graph.png)
 
 ---
 
