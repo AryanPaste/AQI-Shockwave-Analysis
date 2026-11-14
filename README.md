@@ -53,7 +53,18 @@ aqi-shockwave-analysis/
 │   └── [generated outputs]         # CSV logs and PNG charts from live_pipeline.py
 │
 ├── assets/                         # Visual documentation
-│   └── aqi_oct2025_results_preview.png
+│   ├──  Average.png
+│   ├──  Bar Graph.png
+│   ├──  Line Graph.png
+│   ├──  Max-Min.png
+│   ├──  Max.png
+│   ├──  Median.png
+│   ├──  Min.png
+│   ├──  Mode.png
+│   ├──  Oct2025.png
+│   ├──  Range.png
+│   ├──  Standard Deviation.png
+│   └──  Summary.png
 │
 ├── .gitignore                      # Ignores runtime outputs, keeps seed data
 ├── LICENSE                         # MIT License
