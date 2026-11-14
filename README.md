@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34850426/README.md)
+
 # AQI Shockwave Analysis
 
 **From a manual Excel case study to an automated Python pipeline: measuring how Diwali shocks air quality.**
