@@ -1,5 +1,5 @@
 
-# AQI Shockwave Analysis
+# AQI Shockwave Analysis 💨
 
 **From a manual Excel case study to an automated Python pipeline: measuring how Diwali shocks air quality.**
 
