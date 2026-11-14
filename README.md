@@ -162,5 +162,5 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## Author
 
-**[Your Name]**
-[GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-profile>)
+**[Aryan Paste]**
+[GitHub](https://github.com/AryanPaste) · [LinkedIn](https://www.linkedin.com/in/aryanpaste/)
