@@ -106,7 +106,7 @@ pip install pandas numpy matplotlib openpyxl requests
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/aqi-shockwave-analysis.git
+git clone https://github.com/AryanPaste/AQI-Shockwave-Analysis.git
 cd aqi-shockwave-analysis
 pip install -r requirements.txt
 ```
